@@ -53,6 +53,8 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
+| [EquiHealth](https://github.com/prarabdh14/EquiHealth) | Equitable healthcare solutions platform | Python, AI, Web |
+| [Social Mind](https://github.com/prarabdh14/Social-Mind) | Social media analytics and insights | TypeScript, Node.js |
 | [Intelligent-Network-Routing-using-AI](https://github.com/prarabdh14/Intelligent-Network-Routing-using-AI) | AI-powered network routing algorithms | Python, AI |
 | [AI-Chatbot-main](https://github.com/prarabdh14/AI-Chatbot-main) | Conversational AI Chatbot | TypeScript, Node.js |
 | [DiseasePredictionss](https://github.com/prarabdh14/DiseasePredictionss) | Disease prediction using ML | Jupyter, Python |
